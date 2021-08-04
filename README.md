@@ -8,20 +8,17 @@ UI-developer that enjoys building performant and fast apps. UI, UX, and animatio
 💰 Playing around with crypto  
 💣 joined the [hackFS hackathon](https://ethglobal.tv/)  
 
-/BIO
-
+/BIO  
 🌍 Born in NL, travelled &amp; worked remotely for over 7 years.   
 💬 Ping me about design, frontend-development, travel, fun and   
 
-/FUN
-
+/FUN  
 🔫 Was the #1 Q3f fragger for a while  
 📕 wrote a [fiction book](https://shinbyeong.com)  
 💙 [creating visuals both static and audio-reactive](https://instagram.com/flowen_af)  
 
 
-/WORK
-
+/WORK  
 🏢 I'm currently working parttime at solarisbank.de  
 
 recent work:
@@ -45,8 +42,7 @@ clients from the past:
 👉 Always love to collaborate with chill, creative, fun and interesting people
 
 
-/CONTACT
-
+/CONTACT  
 🕸️ [flowen.me](https://flowen.me)  
 💙 [problem.studio](https://problem.studio)  
 🐦 [twitter](https://twitter.com/flowen_af)  
