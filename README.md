@@ -8,7 +8,9 @@ UI-developer that enjoys building performant and fast apps. UI, UX, and animatio
 - 💣 joined the [hackFS hackathon](https://ethglobal.tv/)
 
 /BIO
+
 🌍 Born in NL, travelled &amp; worked remotely for over 7 years. 
+
 💬 Ping me about design, frontend-development, travel, fun and 
 
 /FUN
