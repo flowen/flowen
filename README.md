@@ -3,9 +3,9 @@
 UI-developer that enjoys building performant and fast apps. UI, UX, and animation are the topics I focus on and love to tinker with. I'm great with communication and have always been praised for my creativity and pro-activity. Love working together with great teammates and independently.
 
 /NOW
-✨ Coding part-time for solarisbank.de
-💰 Playing around with crypto
-💣 joined the [hackFS hackathon](https://ethglobal.tv/)
+- ✨ Coding part-time for solarisbank.de
+- 💰 Playing around with crypto
+- 💣 joined the [hackFS hackathon](https://ethglobal.tv/)
 
 /BIO
 🌍 Born in NL, travelled &amp; worked remotely for over 7 years. 
