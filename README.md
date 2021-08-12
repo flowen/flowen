@@ -10,7 +10,7 @@ UI-developer that enjoys building performant and fast apps. UI, UX, and animatio
 
 /BIO  
 🌍 Born in NL, travelled &amp; worked remotely for over 7 years.   
-💬 Ping me about design, frontend-development, travel, fun and   
+💬 Ping me about design, frontend-development, generated visuals and travel
 
 /FUN  
 🔫 Was the #1 Q3f fragger for a while  
