@@ -28,14 +28,15 @@ recent work:
 - principlesofwealth.net
 - mirabeau.nl
 
-<!-- clients from the past:
-- MSCHF
-- 
-- Valtech (Automotive, Friesland Campina, Gazelle, Douwe egberts, etc)
-- droomplekken.nl
--  -->
+clients:
+- mschf
+- richner stutz
+- gebruederheitz
+- mirabeau
+- valtech (Automotive, Friesland Campina, Gazelle, Douwe egberts, etc)
+- etc
 
-👉 Always love to collaborate with chill, creative, fun and interesting people
+👉 Always love to collaborate with chill, creative, fun, and interesting people 💙
 
 
 /CONTACT  
