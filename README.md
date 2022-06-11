@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-UI & fun engineer the web is boring af, lets 🌶️ it up. I enjoy building performant and fast apps. UI, UX, and animation are the topics I focus on and love to tinker with. I'm great with communication and have always been praised for my creativity and pro-activity. Love working together with great teammates and independently as well.
+UI & fun engineer  - "the web is boring af, lets 🌶️ it up". I enjoy building fast and performant apps. UI, UX, and animation are the topics I focus on and love to tinker with. I'm great with communication and have always been praised for my creativity and pro-activity. Love working together with great teammates and can work great independently as well.
 
 /NOW
-✨ Coding part-time for solarisbank.de
-💰 Playing around with crypto
-🔍 exploring DAOs/web3 space <-- looking to join one
+✨ Coding part-time for multiple clients
 
 /BIO  
 🌍 Born in NL, travelled &amp; worked remotely for over 8 years.
@@ -20,21 +18,15 @@ UI & fun engineer the web is boring af, lets 🌶️ it up. I enjoy building per
 /WORK  
 ✨ Coding part-time for solarisbank.de
 
-recent work:
+some work:
+- sound.xyz
+- molabs.ai
 - fauxmegle.com 
 - intheyear2024.com
 - problem.studio
-- countME design + prototype + management (private)
+- countME design prototype + management (private)
 - principlesofwealth.net
 - mirabeau.nl
-
-clients:
-- mschf
-- richner stutz
-- gebruederheitz
-- mirabeau
-- valtech (Automotive, Friesland Campina, Gazelle, Douwe egberts, etc)
-- etc
 
 👉 Always love to collaborate with chill, creative, fun, and interesting people 💙
 
